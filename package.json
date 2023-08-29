@@ -2,5 +2,8 @@
   "devDependencies": {
     "vite": "^4.4.9",
     "vite-plugin-ruby": "^3.2.2"
+  },
+  "dependencies": {
+    "typescript": "^5.2.2"
   }
 }
