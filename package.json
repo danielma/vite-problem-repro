@@ -5,6 +5,7 @@
   },
   "dependencies": {
     "@planningcenter/api-client": "^2.0.2",
+    "@planningcenter/url": "^2.6.5",
     "typescript": "^5.2.2"
   }
 }
